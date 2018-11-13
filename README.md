@@ -1,1 +1,2 @@
-# Blyad' counter
+# Blyad counter
+Counts your blyads everywhere
